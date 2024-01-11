@@ -1,3 +1,2 @@
 say-hello:
-	Hello, World!
-	[bash]
+	echo "Hello, World!"
